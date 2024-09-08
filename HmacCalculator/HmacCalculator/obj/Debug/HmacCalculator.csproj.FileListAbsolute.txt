@@ -1,0 +1,7 @@
+C:\Itransition\HmacCalculator\HmacCalculator\bin\Debug\HmacCalculator.exe.config
+C:\Itransition\HmacCalculator\HmacCalculator\bin\Debug\HmacCalculator.exe
+C:\Itransition\HmacCalculator\HmacCalculator\bin\Debug\HmacCalculator.pdb
+C:\Itransition\HmacCalculator\HmacCalculator\obj\Debug\HmacCalculator.csproj.AssemblyReference.cache
+C:\Itransition\HmacCalculator\HmacCalculator\obj\Debug\HmacCalculator.csproj.CoreCompileInputs.cache
+C:\Itransition\HmacCalculator\HmacCalculator\obj\Debug\HmacCalculator.exe
+C:\Itransition\HmacCalculator\HmacCalculator\obj\Debug\HmacCalculator.pdb
