@@ -1,8 +1,0 @@
-C:\Users\danil\source\repos\task55\publish\task55.exe
-C:\Users\danil\source\repos\task55\publish\appsettings.Development.json
-C:\Users\danil\source\repos\task55\publish\appsettings.json
-C:\Users\danil\source\repos\task55\publish\task55.dll
-C:\Users\danil\source\repos\task55\publish\task55.deps.json
-C:\Users\danil\source\repos\task55\publish\task55.runtimeconfig.json
-C:\Users\danil\source\repos\task55\publish\task55.pdb
-C:\Users\danil\source\repos\task55\publish\Bogus.dll
