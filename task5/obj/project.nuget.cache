@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zEeSt6Hov6Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\task55\\task55\\task55.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\bogus\\35.6.1\\bogus.35.6.1.nupkg.sha512"
+  ],
+  "logs": []
+}
