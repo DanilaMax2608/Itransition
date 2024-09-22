@@ -4,8 +4,6 @@ using task55.Models;
 
 public class HomeController : Controller
 {
-    private static readonly Random _random = new Random();
-
     [HttpGet]
     public IActionResult Index()
     {
@@ -24,6 +22,8 @@ public class HomeController : Controller
                 "ru_RU" => new Faker("ru"),
                 _ => new Faker("en_US"),
             };
+
+            Randomizer.Seed = new Random(request.Seed);
 
             var data = GenerateFakeData(faker, request.ErrorRate, request.Seed, request.Page);
             return Json(data);
@@ -60,7 +60,6 @@ public class HomeController : Controller
 
         return data;
     }
-
 
     private UserData IntroduceErrors(UserData user, double errorRate, Random random)
     {
